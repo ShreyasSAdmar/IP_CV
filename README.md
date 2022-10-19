@@ -1,1 +1,1 @@
-# IP_CV
+# Image_Processing and Computer_Vision
